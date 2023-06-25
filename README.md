@@ -1,3 +1,4 @@
-# read_me
-Extraction of Pan Card Details
+# 
+Extraction of Pan Card Details:
+Folder contains a python notebook
 
